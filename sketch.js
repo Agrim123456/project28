@@ -28,7 +28,7 @@ function setup() {
    mango4=new Mango(950,200,50,50);
    mango5=new Mango(900,250,50,50);
    mango6=new Mango(1000,280,50,50); 
-   sling=new Sling(stone.body,{x:280,y:300});
+   sling=new Sling(stone.body,{x:40,y:300});
 
 	//Create the Bodies Here.
 
